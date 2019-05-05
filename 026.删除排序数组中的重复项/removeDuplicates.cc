@@ -2,7 +2,7 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) 
     {
-        // ±ß½çÌõ¼şÅĞ¶Ï
+        // å¼‚å¸¸å¤„ç†
         if (nums.size() == 1 || nums.size() == 0)
         {
             return nums.size();
