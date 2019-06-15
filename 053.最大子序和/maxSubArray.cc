@@ -1,4 +1,4 @@
-// ½â·¨Ò»£º±©Á¦½â·¨
+// è§£æ³•ä¸€ï¼šæš´åŠ›è§£æ³•
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) 
