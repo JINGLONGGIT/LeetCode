@@ -1,10 +1,10 @@
-// ½â·¨Ò»£º±©Á¦½â·¨£¬±éÀúÕû¸öÊı×é
+// è§£æ³•ä¸€ï¼šæš´åŠ›è§£æ³•ï¼Œéå†æ•´ä¸ªæ•°ç»„
 class Solution 
 {
 public:
     int searchInsert(vector<int>& nums, int target) 
     {
-        // ´¦Àí±ß½çÌõ¼ş
+        // å¤„ç†è¾¹ç•Œæ¡ä»¶
         if (nums[0] > target)
         {
             return 0;
@@ -31,7 +31,7 @@ public:
     }
 };
 
-// ½â·¨¶ş£º¶ş·Ö·¨
+// è§£æ³•äºŒï¼šäºŒåˆ†æ³•
 class Solution 
 {
 public:
