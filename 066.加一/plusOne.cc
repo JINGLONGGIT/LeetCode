@@ -1,10 +1,10 @@
-// ½â·¨Ò»£º
+// è§£æ³•ä¸€ï¼š
 class Solution 
 {
 public:
     vector<int> plusOne(vector<int>& digits) 
     {
-        int i32CarryFlag = 0;       // ½øÎ»±êÖ¾Î»
+        int i32CarryFlag = 0;       // è¿›ä½æ ‡å¿—ä½
         
         for (int i = digits.size() - 1; i >= 0; i--)
         {
@@ -41,7 +41,7 @@ public:
     }
 };
 
-// ½â·¨Èý£º
+// è§£æ³•ä¸‰ï¼š
 class Solution 
 {
 public:
