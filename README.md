@@ -10,3 +10,8 @@
 |035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[C++](./035.搜索插入位置/Search%20Insert%20Position.cc)|[Note](./035.搜索插入位置/README.md)|Easy|`Array`|
 |053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](./053.最大子序和/maxSubArray.cc)|[Note](./053.最大子序和/README.md)|Easy|`Array`|
 |066|[Plus One](https://leetcode-cn.com/problems/plus-one/)|[C++](./066.加一/plusOne.cc)|[Note](./066.加一/README.md)|Easy|`Array`|
+|088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
+
+### 中文乱码问题解决方法：
+* Notepad++--->编码--->使用UTF-8编码
+* commit的时候就可以看到中文
