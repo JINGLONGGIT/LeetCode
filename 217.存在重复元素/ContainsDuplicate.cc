@@ -62,3 +62,24 @@ public:
         return Set.size() != nums.size();
     }
 };
+
+// 解法五：map
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) 
+    {
+        map<int, int> a;
+        
+        for (int i = 0; i < nums.size(); i++)
+        {
+            if (a.count(nums[i]))
+            {
+                return true;
+            }
+            
+            a.insert(map<int, int>::value_type(nums[i], 1));
+        }
+        
+        return false;
+    }
+};
