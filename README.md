@@ -11,6 +11,10 @@
 |053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](./053.最大子序和/maxSubArray.cc)|[Note](./053.最大子序和/README.md)|Easy|`Array`|
 |066|[Plus One](https://leetcode-cn.com/problems/plus-one/)|[C++](./066.加一/plusOne.cc)|[Note](./066.加一/README.md)|Easy|`Array`|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
+|283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
+|724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
+|747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
+
 
 ### 中文乱码问题解决方法：
 * Notepad++--->编码--->使用UTF-8编码
