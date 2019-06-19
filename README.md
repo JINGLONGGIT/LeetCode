@@ -14,6 +14,7 @@
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./217.存在重复元素/ContainsDuplicate.cc)|[Note](./217.存在重复元素/README.md)|Easy|`Array HashTable`|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
+|414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
