@@ -22,6 +22,7 @@
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`||
+|977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
 
 
