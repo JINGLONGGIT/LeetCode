@@ -48,3 +48,28 @@ public:
         return vecResult;
     }
 };
+
+// 解法三
+class Solution {
+public:
+    vector<int> sortArrayByParity(vector<int>& A) 
+    {
+        vector<int> vecResult(A);
+        int j = 0;
+        int k = A.size() - 1;
+        
+        for (int i = 0; i < A.size(); i++)
+        {
+            if (0 == A[i] % 2)
+            {
+                vecResult[j++] = A[i];
+            }
+            else 
+            {
+                vecResult[k--] = A[i];
+            }
+        }
+        
+        return vecResult;
+    }
+};
