@@ -2,8 +2,8 @@
 :book: LeetCode solutions in C++ and C
 
 
-|NO.|Title|Solution|Note|Difficulty|Tag|
-|---|-----|--------|----|----------|---|
+|NO.|Title|Solution|Note|Difficulty|Tag|Remark|
+|---|-----|--------|----|----------|---|---|
 |001|[Two Sum](https://leetcode-cn.com/problems/two-sum)|[C++](./001.两数之和/TwoSum.cc)|[Note](./001.两数之和/README.md)|Easy|`Array`|
 |026|[removeDuplicates](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[C++](./026.删除排序数组中的重复项/removeDuplicates.cc)|[Note](./026.删除排序数组中的重复项/README.md)|Easy|`Array`|
 |027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|[C++](./027.移除元素/Remove%20Element.cc)|[Note](./027.移除元素/README.md)|Easy|`Array`|
@@ -21,6 +21,13 @@
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
 
+
+### Remark说明
+> 做过每一道题之后，都需要将该题归类
+
+* 三颗星`***`说明该题的解题思路非常典型，值得深入研究
+* 两颗星其次
+* 一颗星说明该题的题目描述不清晰，且价值不大
 
 ### 中文乱码问题解决方法：
 * Notepad++--->编码--->使用UTF-8编码
