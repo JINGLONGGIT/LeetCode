@@ -13,6 +13,7 @@
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./217.存在重复元素/ContainsDuplicate.cc)|[Note](./217.存在重复元素/README.md)|Easy|`Array HashTable`|
+|219||[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`||
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|*|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
