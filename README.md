@@ -13,6 +13,7 @@
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/RemoveLinkedListElements.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/README.md)|Easy|`Linked List`|
+|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/ReverseList.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/README.md)|Easy|`Linked List`|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./217.存在重复元素/ContainsDuplicate.cc)|[Note](./217.存在重复元素/README.md)|Easy|`Array HashTable`|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|**|
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|*|
