@@ -70,3 +70,21 @@ struct ListNode* removeElements(struct ListNode* head, int val)
     
     return pre->next;
 }
+
+// 解法三：
+struct ListNode *removeElements(struct ListNode *head, int val)
+{
+	struct ListNode *p = (struct ListNode *)malloc(sizeof(struct ListNode));
+	p->next = head;
+	struct ListNode *pre = p;
+	
+	while (p->next != NULL)
+	{
+		if (p->next->val == val)
+			p->next = p->next->next;
+		else
+			p = p->next;
+	}
+	
+	return pre->next;
+}
