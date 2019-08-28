@@ -6,28 +6,21 @@
  * };
  */
 
-
 struct ListNode* reverseList(struct ListNode* head)
 {
-    if (head == NULL || head->next == NULL)
+    struct ListNode *pre = NULL;
+
+    while (head != NULL)
     {
-        return head;
+        // tmp 用于保存下一个节点；head是当前节点
+        struct ListNode *tmp = cur->next;
+        head->next = pre;
+        pre = head;
+        head = tmp;
     }
-    
-    struct ListNode* ListCur = head;
-    struct ListNode* ListPre = NULL;
-    struct ListNode* ListNext = NULL;
-    
-    while (ListCur != NULL)
-    {
-        ListNext = ListCur->next;
-        ListCur->next = ListPre;
-        ListPre = ListCur;
-        ListCur = ListNext;
-    }
-    
-    head = ListPre;
-    
-    return head;
+
+    return pre;
 }
+
+
 
