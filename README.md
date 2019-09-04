@@ -11,6 +11,7 @@
 |035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[C++](./035.搜索插入位置/Search%20Insert%20Position.cc)|[Note](./035.搜索插入位置/README.md)|Easy|`Array`|
 |053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](./053.最大子序和/maxSubArray.cc)|[Note](./053.最大子序和/README.md)|Easy|`Array`|
 |066|[Plus One](https://leetcode-cn.com/problems/plus-one/)|[C++](./066.加一/plusOne.cc)|[Note](./066.加一/README.md)|Easy|`Array`|
+|083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[C++](./083.删除排序链表中的重复元素/Remove_Duplicates_from_Sorted_List.cc)|[Note](./083.删除排序链表中的重复元素/README.md)|Easy|`Linked List`|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/RemoveLinkedListElements.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/README.md)|Easy|`Linked List`|`***`|
