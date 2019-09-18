@@ -13,6 +13,7 @@
 |066|[Plus One](https://leetcode-cn.com/problems/plus-one/)|[C++](./066.加一/plusOne.cc)|[Note](./066.加一/README.md)|Easy|`Array`|
 |083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[C++](./083.删除排序链表中的重复元素/Remove_Duplicates_from_Sorted_List.cc)|[Note](./083.删除排序链表中的重复元素/README.md)|Easy|`Linked List`|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
+|118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|[C++](./118.杨辉三角/Pascal's_Triangle.cc)|[Note](./118.杨辉三角/README.md)||
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/RemoveLinkedListElements.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/README.md)|Easy|`Linked List`|`***`|
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/ReverseList.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/README.md)|Easy|`Linked List`|
@@ -47,3 +48,6 @@
 
 ### github代码缩进问题
 * NotePad++--->设置--->首选项--->语言--->“制表符设置”下方--->“替换为空格”打勾
+
+### github的README.md文件如何换行
+* 直接在要换行的语句后面输入两个空格
