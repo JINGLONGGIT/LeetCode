@@ -33,7 +33,6 @@
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)|[C++](./532.数组中的K-diff数对/K-diff_Pairs_in_an_Array.cc)|[Note](./532.数组中的K-diff数对/README.md)|Easy|`Array` `Two Pointers`|
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[C++](./628.三个数的最大乘积/MaximumProductofThreeNumbers.cc)|[Note](./628.三个数的最大乘积/README.md)|Easy|`Array`|
-|661|[Image Smoother](https://leetcode-cn.com/problems/image-smoother/)|[C++]()|[Note]()|Easy|`Array`||
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
 |832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|[C++](./832.翻转图像/Flipping_an_Image.cc)|[Note](./832.翻转图像/README.md)|Easy|`Array`||
