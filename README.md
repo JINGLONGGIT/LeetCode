@@ -17,6 +17,8 @@
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[C++](./119.杨辉三角II/Pascal's_Triangle_II.cc)|[Note](.//119.杨辉三角II/README.md)|Easy|`Array`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./121.买卖股票的最佳时机/Best-Time-to-Buy-and-Sell-Stock.cc)|[Note](./121.买卖股票的最佳时机/README.md)|Easy|`Array`|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./122.买卖股票的最佳时机II/Best-Time-to-Buy-and-Sell-Stock-II.cc)|[Note](./122.买卖股票的最佳时机II/README.md)|Easy|`Array`|
+|141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[C++](./141.环形链表/Linked_List_Cycle.cc)|[Note](./141.环形链表/README.md)|Easy|`Linked List`|
+|160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[C++](./160.相交链表/Intersection_of_Two_Linked_Lists.cc)|[Note](./160.相交链表/README.md)|Easy|`Linked List`|
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./167.两数之和II%20-%20输入有序数组/TwoSumII.cc)|[Note](./167.两数之和II%20-%20输入有序数组/TwoSumII.cc)|Easy|`Array` `Two Pointers` `Binary Search`|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|[C++](./189.旋转数组/RotateArray.cc)|[Note](./189.旋转数组/README.md)|Easy|`Array`|
@@ -24,6 +26,7 @@
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/ReverseList.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/README.md)|Easy|`Linked List`|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./217.存在重复元素/ContainsDuplicate.cc)|[Note](./217.存在重复元素/README.md)|Easy|`Array HashTable`|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|**|
+|234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|[C++](./234.回文链表/Palindrome_Linked_List.cc)|[Note](./234.回文链表/README.md)|Easy|`Linked List`|
 |237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[C](./237.删除链表中的节点/Delete_Node_in_a_Linked_List.c)|[Note](./237.删除链表中的节点/README.md)|Easy|`Linked List`|
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|*|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
@@ -58,3 +61,8 @@
 
 ### github的README.md文件如何换行
 * 直接在要换行的语句后面输入两个空格
+
+### Markdown 编辑文档时如何输入空格
+* 半方大的空格 `&ensp;` 或者 `&#8194;`
+* 全方大的空格 `&emsp;` 或者 `&#8195;`
+* 不断行的空格 `&nbsp;` 或者 `&#160;`
