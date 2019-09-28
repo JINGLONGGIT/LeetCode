@@ -5,6 +5,7 @@
 |NO.|Title|Solution|Note|Difficulty|Tag|Remark|
 |---|-----|--------|----|----------|---|---|
 |001|[Two Sum](https://leetcode-cn.com/problems/two-sum)|[C++](./001.两数之和/TwoSum.cc)|[Note](./001.两数之和/README.md)|Easy|`Array`|
+|020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[C++](./020.有效的括号/Valid_Parentheses.cc)|[Note](./020.有效的括号/README.md)|Easy|`Stack` `String`||
 |021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[C](./021.合并两个有序链表/MergeTwoSortedLists.c) / [C++](./021.合并两个有序链表/MergeTwoSortedLists.cc)|[Note](./021.合并两个有序链表/README.md)|Easy|`Linked List`|
 |026|[removeDuplicates](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|[C++](./026.删除排序数组中的重复项/removeDuplicates.cc)|[Note](./026.删除排序数组中的重复项/README.md)|Easy|`Array`|
 |027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|[C++](./027.移除元素/Remove%20Element.cc)|[Note](./027.移除元素/README.md)|Easy|`Array`|
@@ -18,6 +19,7 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./121.买卖股票的最佳时机/Best-Time-to-Buy-and-Sell-Stock.cc)|[Note](./121.买卖股票的最佳时机/README.md)|Easy|`Array`|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./122.买卖股票的最佳时机II/Best-Time-to-Buy-and-Sell-Stock-II.cc)|[Note](./122.买卖股票的最佳时机II/README.md)|Easy|`Array`|
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[C++](./141.环形链表/Linked_List_Cycle.cc)|[Note](./141.环形链表/README.md)|Easy|`Linked List`|
+|155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|[C++](./155.最小栈/Min_Stack.cc)|[Note](./155.最小栈/README.md)|Easy|`Stack`|
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[C++](./160.相交链表/Intersection_of_Two_Linked_Lists.cc)|[Note](./160.相交链表/README.md)|Easy|`Linked List`|
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./167.两数之和II%20-%20输入有序数组/TwoSumII.cc)|[Note](./167.两数之和II%20-%20输入有序数组/TwoSumII.cc)|Easy|`Array` `Two Pointers` `Binary Search`|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
@@ -33,12 +35,15 @@
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|**|
+|496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/)|[C++](./496.下一个更大元素I/Next_Greater_Element_I.cc)|[Note](./496.下一个更大元素I/README.md)|Easy|`Stack`|
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)|[C++](./532.数组中的K-diff数对/K-diff_Pairs_in_an_Array.cc)|[Note](./532.数组中的K-diff数对/README.md)|Easy|`Array` `Two Pointers`|
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[C++](./628.三个数的最大乘积/MaximumProductofThreeNumbers.cc)|[Note](./628.三个数的最大乘积/README.md)|Easy|`Array`|
+|682|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/)|[C++](./682.棒球比赛/Baseball_Game.cc)|[Note](./682.棒球比赛/README.md)|Easy|`Stack`|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
 |832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|[C++](./832.翻转图像/Flipping_an_Image.cc)|[Note](./832.翻转图像/README.md)|Easy|`Array`||
+|844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|[C++](./844.比较含退格的字符串/Backspace_String_Compare.cc)|[Note](./844.比较含退格的字符串/README.md)|Easy|`Stack` `Two Pointers`|
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`||
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`||
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
