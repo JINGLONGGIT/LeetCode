@@ -41,7 +41,7 @@
 |374|[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[C++](./374.猜数字大小/Guess_Number_Higher_or_Lower.cc)|[Note](./374.猜数字大小/README.md)|Easy|`Binary Search`|
 |392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|[C++]()|[Note]()|Easy||
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
-|441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)|[C++]()|[Note]()|Easy||
+|441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)|[C++](./441.排列硬币/Arranging_Coins.cc)|[Note](./441.排列硬币/README.md)|Easy|`Binary Search`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
 |475|[Heaters](https://leetcode-cn.com/problems/heaters/)|[C++]()|[Note]()|Easy||
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|**|
