@@ -43,7 +43,6 @@
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
 |441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)|[C++](./441.排列硬币/Arranging_Coins.cc)|[Note](./441.排列硬币/README.md)|Easy|`Binary Search`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
-|475|[Heaters](https://leetcode-cn.com/problems/heaters/)|[C++]()|[Note]()|Easy||
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|**|
 |496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/)|[C++](./496.下一个更大元素I/Next_Greater_Element_I.cc)|[Note](./496.下一个更大元素I/README.md)|Easy|`Stack`|
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
@@ -59,7 +58,7 @@
 |852|[Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|[C++](./852.山脉数组的峰顶索引/Peak_Index_in_a_Mountain_Array.cc)|[Note](./852.山脉数组的峰顶索引/README.md)|Easy|`Binary Search`|
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`||
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`||
-|922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[C++]()|[Note]()|Easy||
+|922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[C++](./922.按奇偶排序数组II/Sort_Array_By_Parity_II.cc)|[Note](./922.按奇偶排序数组II/README.md)|Easy|`Two Pointers`|
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[C++](./976.三角形的最大周长/Largest_Perimeter_Triangle.cc)|[Note](./976.三角形的最大周长/README.md)|Easy|`Sort`|
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
