@@ -12,6 +12,7 @@
 |035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[C++](./035.搜索插入位置/Search%20Insert%20Position.cc)|[Note](./035.搜索插入位置/README.md)|Easy|`Array`|
 |053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[C++](./053.最大子序和/maxSubArray.cc)|[Note](./053.最大子序和/README.md)|Easy|`Array`|
 |066|[Plus One](https://leetcode-cn.com/problems/plus-one/)|[C++](./066.加一/plusOne.cc)|[Note](./066.加一/README.md)|Easy|`Array`|
+|069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|[C++](./069.x的平方根/Sqrt(x).cc)|[Note](./069.x的平方根/README.md)|Easy|`Binary Search`|
 |083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[C++](./083.删除排序链表中的重复元素/Remove_Duplicates_from_Sorted_List.cc)|[Note](./083.删除排序链表中的重复元素/README.md)|Easy|`Linked List`|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|[C++](./118.杨辉三角/Pascal's_Triangle.cc)|[Note](./118.杨辉三角/README.md)|Easy|`Array`|
@@ -30,8 +31,13 @@
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|**|
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|[C++](./234.回文链表/Palindrome_Linked_List.cc)|[Note](./234.回文链表/README.md)|Easy|`Linked List`|
 |237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[C](./237.删除链表中的节点/Delete_Node_in_a_Linked_List.c)|[Note](./237.删除链表中的节点/README.md)|Easy|`Linked List`|
+|242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)|[C++](./242.有效的字母异位词/Valid_Anagram.cc)|[Note](./242.有效的字母异位词/README.md)|Easy|`Sort` `Hash Table`|
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|*|
+|278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|[C++](./278.第一个错误的版本/First_Bad_Version.cc)|[Note](./278.第一个错误的版本/README.md)|Easy|`Bianry Search`|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
+|349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[C++](./349.两个数组的交集/Intersection_of_Two_Arrays.cc)|[Note](./349.两个数组的交集/README.md)|Easy|`Hash Table`<br>`Two Pointers` <br>`Biansy Search`&emsp;`Sort`|
+|367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)|[C++](./367.有效的完全平方数/Valid_Perfect_Square.cc)|[Note](./367.有效的完全平方数/README.md)|Easy|`Binary Search`|
+|374|[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[C++](./374.猜数字大小/Guess_Number_Higher_or_Lower.cc)|[Note](./374.猜数字大小/README.md)|Easy|`Binary Search`|
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|**|
@@ -40,12 +46,16 @@
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)|[C++](./532.数组中的K-diff数对/K-diff_Pairs_in_an_Array.cc)|[Note](./532.数组中的K-diff数对/README.md)|Easy|`Array` `Two Pointers`|
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[C++](./628.三个数的最大乘积/MaximumProductofThreeNumbers.cc)|[Note](./628.三个数的最大乘积/README.md)|Easy|`Array`|
 |682|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/)|[C++](./682.棒球比赛/Baseball_Game.cc)|[Note](./682.棒球比赛/README.md)|Easy|`Stack`|
+|704|[Binary Search](https://leetcode-cn.com/problems/binary-search/)|[C++](./704.二分查找/Binary_Search.cc)|[Note](./704.二分查找/README.md)|Easy|`Binary Search`|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)|[C++](./744.寻找比目标字母大的最小字母/Find_Smallest_Letter_Greater_Than_Target.cc)|[Note](./744.寻找比目标字母大的最小字母/README.md)|Easy|`Binary Search`|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
 |832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|[C++](./832.翻转图像/Flipping_an_Image.cc)|[Note](./832.翻转图像/README.md)|Easy|`Array`||
 |844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|[C++](./844.比较含退格的字符串/Backspace_String_Compare.cc)|[Note](./844.比较含退格的字符串/README.md)|Easy|`Stack` `Two Pointers`|
+|852|[Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|[C++](./852.山脉数组的峰顶索引/Peak_Index_in_a_Mountain_Array.cc)|[Note](./852.山脉数组的峰顶索引/README.md)|Easy|`Binary Search`|
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`||
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`||
+|976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[C++](./976.三角形的最大周长/Largest_Perimeter_Triangle.cc)|[Note](./976.三角形的最大周长/README.md)|Easy|`Sort`|
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
 
@@ -71,3 +81,6 @@
 * 半方大的空格 `&ensp;` 或者 `&#8194;`
 * 全方大的空格 `&emsp;` 或者 `&#8195;`
 * 不断行的空格 `&nbsp;` 或者 `&#160;`
+
+### Markdown 编辑文档时如何输入换行符
+* 在需要换行的地方输入 `<br>`
