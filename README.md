@@ -36,10 +36,14 @@
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|[C++](./278.第一个错误的版本/First_Bad_Version.cc)|[Note](./278.第一个错误的版本/README.md)|Easy|`Bianry Search`|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[C++](./349.两个数组的交集/Intersection_of_Two_Arrays.cc)|[Note](./349.两个数组的交集/README.md)|Easy|`Hash Table`<br>`Two Pointers` <br>`Biansy Search`&emsp;`Sort`|
+|350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[C++](./350.两个数组的交集II/Intersection_of_Two_Arrays_II.cc)|[Note](./350.两个数组的交集II/README.md)|Easy|`Hash Table`&emsp;`Sort`<br>`Two Pointers`|
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)|[C++](./367.有效的完全平方数/Valid_Perfect_Square.cc)|[Note](./367.有效的完全平方数/README.md)|Easy|`Binary Search`|
 |374|[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[C++](./374.猜数字大小/Guess_Number_Higher_or_Lower.cc)|[Note](./374.猜数字大小/README.md)|Easy|`Binary Search`|
+|392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|[C++]()|[Note]()|Easy||
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
+|441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)|[C++]()|[Note]()|Easy||
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
+|475|[Heaters](https://leetcode-cn.com/problems/heaters/)|[C++]()|[Note]()|Easy||
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|**|
 |496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/)|[C++](./496.下一个更大元素I/Next_Greater_Element_I.cc)|[Note](./496.下一个更大元素I/README.md)|Easy|`Stack`|
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
@@ -55,6 +59,7 @@
 |852|[Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|[C++](./852.山脉数组的峰顶索引/Peak_Index_in_a_Mountain_Array.cc)|[Note](./852.山脉数组的峰顶索引/README.md)|Easy|`Binary Search`|
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`||
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`||
+|922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[C++]()|[Note]()|Easy||
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[C++](./976.三角形的最大周长/Largest_Perimeter_Triangle.cc)|[Note](./976.三角形的最大周长/README.md)|Easy|`Sort`|
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
