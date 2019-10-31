@@ -39,7 +39,7 @@
 |350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[C++](./350.两个数组的交集II/Intersection_of_Two_Arrays_II.cc)|[Note](./350.两个数组的交集II/README.md)|Easy|`Hash Table`&emsp;`Sort`<br>`Two Pointers`|
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)|[C++](./367.有效的完全平方数/Valid_Perfect_Square.cc)|[Note](./367.有效的完全平方数/README.md)|Easy|`Binary Search`|
 |374|[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[C++](./374.猜数字大小/Guess_Number_Higher_or_Lower.cc)|[Note](./374.猜数字大小/README.md)|Easy|`Binary Search`|
-|392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|[C++]()|[Note]()|Easy||
+|392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|[C++](./392.判断子序列/Is_Subsequence.cc)|[Note](./392.判断子序列/README.md)|Easy||
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
 |441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)|[C++](./441.排列硬币/Arranging_Coins.cc)|[Note](./441.排列硬币/README.md)|Easy|`Binary Search`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
