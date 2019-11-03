@@ -2,8 +2,8 @@
 :book: LeetCode solutions in C++ and C
 
 
-|NO.|Title|Solution|Note|Difficulty|Tag|Remark|
-|---|-----|--------|----|----------|---|---|
+|NO.|Title|Solution|Note|Difficulty|Tag|
+|---|-----|--------|----|----------|---|
 |001|[Two Sum](https://leetcode-cn.com/problems/two-sum)|[C++](./001.两数之和/TwoSum.cc)|[Note](./001.两数之和/README.md)|Easy|`Array`|
 |020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[C++](./020.有效的括号/Valid_Parentheses.cc)|[Note](./020.有效的括号/README.md)|Easy|`Stack` `String`||
 |021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[C](./021.合并两个有序链表/MergeTwoSortedLists.c) / [C++](./021.合并两个有序链表/MergeTwoSortedLists.cc)|[Note](./021.合并两个有序链表/README.md)|Easy|`Linked List`|
@@ -27,15 +27,15 @@
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|[C++](./189.旋转数组/RotateArray.cc)|[Note](./189.旋转数组/README.md)|Easy|`Array`|
 |202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)|[C++](./202.快乐数/Happy_Number.cc)|[Note](./202.快乐数/README.md)|Easy|`Two Pointers`|
-|203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/RemoveLinkedListElements.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/README.md)|Easy|`Linked List`|`***`|
+|203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/RemoveLinkedListElements.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/README.md)|Easy|`Linked List`|
 |204|[Count Primes](https://leetcode-cn.com/problems/count-primes/)|[C++](./204.计数质数/Count_Primes.cc)|[Note](./204.计数质数/README.md)|Easy|
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/ReverseList.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/README.md)|Easy|`Linked List`|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./217.存在重复元素/ContainsDuplicate.cc)|[Note](./217.存在重复元素/README.md)|Easy|`Array HashTable`|
-|219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|**|
+|219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|[C++](./234.回文链表/Palindrome_Linked_List.cc)|[Note](./234.回文链表/README.md)|Easy|`Linked List`|
 |237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[C](./237.删除链表中的节点/Delete_Node_in_a_Linked_List.c)|[Note](./237.删除链表中的节点/README.md)|Easy|`Linked List`|
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)|[C++](./242.有效的字母异位词/Valid_Anagram.cc)|[Note](./242.有效的字母异位词/README.md)|Easy|`Sort` `Hash Table`|
-|268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|*|
+|268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|[C++](./278.第一个错误的版本/First_Bad_Version.cc)|[Note](./278.第一个错误的版本/README.md)|Easy|`Bianry Search`|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[C++](./349.两个数组的交集/Intersection_of_Two_Arrays.cc)|[Note](./349.两个数组的交集/README.md)|Easy|`Hash Table`<br>`Two Pointers` <br>`Biansy Search`&emsp;`Sort`|
@@ -46,7 +46,7 @@
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
 |441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)|[C++](./441.排列硬币/Arranging_Coins.cc)|[Note](./441.排列硬币/README.md)|Easy|`Binary Search`|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
-|485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|**|
+|485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|
 |496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/)|[C++](./496.下一个更大元素I/Next_Greater_Element_I.cc)|[Note](./496.下一个更大元素I/README.md)|Easy|`Stack`|
 |500|[Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/)|[C++](./500.键盘行/Keyboard_Row.cc)|[Note](./500.键盘行/README.md)|Easy|`Hash Table`|
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
@@ -70,13 +70,6 @@
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
 
-
-### Remark说明
-> 做过每一道题之后，都需要将该题归类
-
-* 三颗星`***`说明该题的解题思路非常典型，值得深入研究
-* 两颗星其次
-* 一颗星说明该题的题目描述不清晰，且价值不大
 
 ### 中文乱码问题解决方法：
 * Notepad++--->编码--->使用UTF-8编码
