@@ -19,13 +19,16 @@
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[C++](./119.杨辉三角II/Pascal's_Triangle_II.cc)|[Note](.//119.杨辉三角II/README.md)|Easy|`Array`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./121.买卖股票的最佳时机/Best-Time-to-Buy-and-Sell-Stock.cc)|[Note](./121.买卖股票的最佳时机/README.md)|Easy|`Array`|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./122.买卖股票的最佳时机II/Best-Time-to-Buy-and-Sell-Stock-II.cc)|[Note](./122.买卖股票的最佳时机II/README.md)|Easy|`Array`|
+|136|[Single Number](https://leetcode-cn.com/problems/single-number/)|[C++](./136.只出现一次的数字/Single_Number.cc)|[Note](./136.只出现一次的数字/README.md)|Easy|`sort` `Two Pointers`  `Bit Manipulation`|
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[C++](./141.环形链表/Linked_List_Cycle.cc)|[Note](./141.环形链表/README.md)|Easy|`Linked List`|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|[C++](./155.最小栈/Min_Stack.cc)|[Note](./155.最小栈/README.md)|Easy|`Stack`|
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[C++](./160.相交链表/Intersection_of_Two_Linked_Lists.cc)|[Note](./160.相交链表/README.md)|Easy|`Linked List`|
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./167.两数之和II%20-%20输入有序数组/TwoSumII.cc)|[Note](./167.两数之和II%20-%20输入有序数组/TwoSumII.cc)|Easy|`Array` `Two Pointers` `Binary Search`|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[C++](./169.求众数/MajorityElement.cc)|[Note](./169.求众数/README.md)|Easy|`Array`|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|[C++](./189.旋转数组/RotateArray.cc)|[Note](./189.旋转数组/README.md)|Easy|`Array`|
+|202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)|[C++](./202.快乐数/Happy_Number.cc)|[Note](./202.快乐数/README.md)|Easy|`Two Pointers`|
 |203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/RemoveLinkedListElements.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/203.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/README.md)|Easy|`Linked List`|`***`|
+|204|[Count Primes](https://leetcode-cn.com/problems/count-primes/)|[C++](./204.计数质数/Count_Primes.cc)|[Note](./204.计数质数/README.md)|Easy|
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/ReverseList.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/README.md)|Easy|`Linked List`|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./217.存在重复元素/ContainsDuplicate.cc)|[Note](./217.存在重复元素/README.md)|Easy|`Array HashTable`|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|**|
