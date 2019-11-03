@@ -64,6 +64,7 @@
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`||
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`||
 |922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[C++](./922.按奇偶排序数组II/Sort_Array_By_Parity_II.cc)|[Note](./922.按奇偶排序数组II/README.md)|Easy|`Two Pointers`|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/submissions/)|[C++](./961.重复N次的元素/N-Repeated_Element_in_Size_2N%20Array.cc)|[Note](./961.重复N次的元素/README.md)|Easy|`Hash Table`&emsp;`Sort`|
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[C++](./976.三角形的最大周长/Largest_Perimeter_Triangle.cc)|[Note](./976.三角形的最大周长/README.md)|Easy|`Sort`|
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
