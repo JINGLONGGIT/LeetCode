@@ -48,6 +48,7 @@
 |448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./448.找到所有数组中消失的数字/Find_All_Numbers_Disappeared_in_an_Array.cc)|[Note](./448.找到所有数组中消失的数字/README.md)|Easy|`Array`|
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|[C++](./485.最大连续1的个数/MaxConsecutiveOnes.cc)|[Note](./485.最大连续1的个数/README.md)|Easy|`Array`|**|
 |496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/)|[C++](./496.下一个更大元素I/Next_Greater_Element_I.cc)|[Note](./496.下一个更大元素I/README.md)|Easy|`Stack`|
+|500|[Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/)|[C++](./500.键盘行/Keyboard_Row.cc)|[Note](./500.键盘行/README.md)|Easy|`Hash Table`|
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)|[C++](./532.数组中的K-diff数对/K-diff_Pairs_in_an_Array.cc)|[Note](./532.数组中的K-diff数对/README.md)|Easy|`Array` `Two Pointers`|
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[C++](./628.三个数的最大乘积/MaximumProductofThreeNumbers.cc)|[Note](./628.三个数的最大乘积/README.md)|Easy|`Array`|
@@ -56,7 +57,8 @@
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)|[C++](./744.寻找比目标字母大的最小字母/Find_Smallest_Letter_Greater_Than_Target.cc)|[Note](./744.寻找比目标字母大的最小字母/README.md)|Easy|`Binary Search`|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[C++](./747.至少是其他数字两倍的最大数/LargestNumberAtLeastTwiceofOthers.cc)|[Note](./747.至少是其他数字两倍的最大数/README.md)|Easy|`Array`|
-|832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|[C++](./832.翻转图像/Flipping_an_Image.cc)|[Note](./832.翻转图像/README.md)|Easy|`Array`||
+|771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/)|[C++](./771.宝石与石头/Jewels_and_Stones.cc)|[Note](./771.宝石与石头/README.md)|Easy|`Hash Table`|
+|832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|[C++](./832.翻转图像/Flipping_an_Image.cc)|[Note](./832.翻转图像/README.md)|Easy|`Array`|
 |844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|[C++](./844.比较含退格的字符串/Backspace_String_Compare.cc)|[Note](./844.比较含退格的字符串/README.md)|Easy|`Stack` `Two Pointers`|
 |852|[Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|[C++](./852.山脉数组的峰顶索引/Peak_Index_in_a_Mountain_Array.cc)|[Note](./852.山脉数组的峰顶索引/README.md)|Easy|`Binary Search`|
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`||
