@@ -51,6 +51,7 @@
 |500|[Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/)|[C++](./500.键盘行/Keyboard_Row.cc)|[Note](./500.键盘行/README.md)|Easy|`Hash Table`|
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)|[C++](./532.数组中的K-diff数对/K-diff_Pairs_in_an_Array.cc)|[Note](./532.数组中的K-diff数对/README.md)|Easy|`Array` `Two Pointers`|
+|575|[Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/)|[C++](./575.分糖果/Distribute_Candies.cc)|[Note](./575.分糖果/README.md)|Easy|`Hash Table`|
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[C++](./628.三个数的最大乘积/MaximumProductofThreeNumbers.cc)|[Note](./628.三个数的最大乘积/README.md)|Easy|`Array`|
 |682|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/)|[C++](./682.棒球比赛/Baseball_Game.cc)|[Note](./682.棒球比赛/README.md)|Easy|`Stack`|
 |704|[Binary Search](https://leetcode-cn.com/problems/binary-search/)|[C++](./704.二分查找/Binary_Search.cc)|[Note](./704.二分查找/README.md)|Easy|`Binary Search`|
