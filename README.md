@@ -42,6 +42,7 @@
 |350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[C++](./350.两个数组的交集II/Intersection_of_Two_Arrays_II.cc)|[Note](./350.两个数组的交集II/README.md)|Easy|`Hash Table`&emsp;`Sort`<br>`Two Pointers`|
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)|[C++](./367.有效的完全平方数/Valid_Perfect_Square.cc)|[Note](./367.有效的完全平方数/README.md)|Easy|`Binary Search`|
 |374|[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[C++](./374.猜数字大小/Guess_Number_Higher_or_Lower.cc)|[Note](./374.猜数字大小/README.md)|Easy|`Binary Search`|
+|387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[C++](./387.字符串中的第一个唯一字符/First_Unique_Character_in_a_String.cc)|[Note](./387.字符串中的第一个唯一字符/README.md)|Easy|`Hash Table`|
 |389|[Find the Difference](https://leetcode-cn.com/problems/find-the-difference/)|[C++](./389.找不同/Find_the_Difference.cc)|[Note](./389.找不同/README.md)|Easy|`Bit Manipulation`&emsp;`Sort`|
 |392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|[C++](./392.判断子序列/Is_Subsequence.cc)|[Note](./392.判断子序列/README.md)|Easy|`Two Pointers`|
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
