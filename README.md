@@ -19,7 +19,7 @@
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[C++](./119.杨辉三角II/Pascal's_Triangle_II.cc)|[Note](.//119.杨辉三角II/README.md)|Easy|`Array`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./121.买卖股票的最佳时机/Best-Time-to-Buy-and-Sell-Stock.cc)|[Note](./121.买卖股票的最佳时机/README.md)|Easy|`Array`|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./122.买卖股票的最佳时机II/Best-Time-to-Buy-and-Sell-Stock-II.cc)|[Note](./122.买卖股票的最佳时机II/README.md)|Easy|`Array`|
-|136|[Single Number](https://leetcode-cn.com/problems/single-number/)|[C++](./136.只出现一次的数字/Single_Number.cc)|[Note](./136.只出现一次的数字/README.md)|Easy|`sort` `Two Pointers`  `Bit Manipulation`|
+|136|[Single Number](https://leetcode-cn.com/problems/single-number/)|[C++](./136.只出现一次的数字/Single_Number.cc)|[Note](./136.只出现一次的数字/README.md)|Easy|`sort` `Two Pointers`<br>`Bit Manipulation`|
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[C++](./141.环形链表/Linked_List_Cycle.cc)|[Note](./141.环形链表/README.md)|Easy|`Linked List`|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|[C++](./155.最小栈/Min_Stack.cc)|[Note](./155.最小栈/README.md)|Easy|`Stack`|
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[C++](./160.相交链表/Intersection_of_Two_Linked_Lists.cc)|[Note](./160.相交链表/README.md)|Easy|`Linked List`|
@@ -38,10 +38,11 @@
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|[C++](./278.第一个错误的版本/First_Bad_Version.cc)|[Note](./278.第一个错误的版本/README.md)|Easy|`Bianry Search`|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./283.移动零/MoveZeroes.cc)|[Note](./283.移动零/README.md)|Easy|`Array`|
-|349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[C++](./349.两个数组的交集/Intersection_of_Two_Arrays.cc)|[Note](./349.两个数组的交集/README.md)|Easy|`Hash Table`<br>`Two Pointers` <br>`Biansy Search`&emsp;`Sort`|
+|349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[C++](./349.两个数组的交集/Intersection_of_Two_Arrays.cc)|[Note](./349.两个数组的交集/README.md)|Easy|`Hash Table`&emsp;`Two Pointers` <br>`Biansy Search`&emsp;`Sort`|
 |350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[C++](./350.两个数组的交集II/Intersection_of_Two_Arrays_II.cc)|[Note](./350.两个数组的交集II/README.md)|Easy|`Hash Table`&emsp;`Sort`<br>`Two Pointers`|
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)|[C++](./367.有效的完全平方数/Valid_Perfect_Square.cc)|[Note](./367.有效的完全平方数/README.md)|Easy|`Binary Search`|
 |374|[Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[C++](./374.猜数字大小/Guess_Number_Higher_or_Lower.cc)|[Note](./374.猜数字大小/README.md)|Easy|`Binary Search`|
+|389|[Find the Difference](https://leetcode-cn.com/problems/find-the-difference/)|[C++](./389.找不同/Find_the_Difference.cc)|[Note](./389.找不同/README.md)|Easy|`Bit Manipulation`&emsp;`Sort`|
 |392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|[C++](./392.判断子序列/Is_Subsequence.cc)|[Note](./392.判断子序列/README.md)|Easy|`Two Pointers`|
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/)|[C++](./414.第三大的数/ThirdMaximumNumber.cc)|[Note](./414.第三大的数/README.md)|Easy|`Array`|
 |441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/)|[C++](./441.排列硬币/Arranging_Coins.cc)|[Note](./441.排列硬币/README.md)|Easy|`Binary Search`|
