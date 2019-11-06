@@ -66,8 +66,9 @@
 |852|[Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|[C++](./852.山脉数组的峰顶索引/Peak_Index_in_a_Mountain_Array.cc)|[Note](./852.山脉数组的峰顶索引/README.md)|Easy|`Binary Search`|
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`|
 |884|[Uncommon Words from Two Sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)|[C++](./884.两句话中的不常见单词/Uncommon_Words_from_Two_Sentences.cc)|[Note](./884.两句话中的不常见单词/README.md)|Easy|`Hash Table`|
-|905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`||
+|905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`|
 |922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[C++](./922.按奇偶排序数组II/Sort_Array_By_Parity_II.cc)|[Note](./922.按奇偶排序数组II/README.md)|Easy|`Two Pointers`|
+|938|[Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/)|[C++](./938.二叉搜索树的范围和/Range_Sum_of_BST.cc)|[Note](./938.二叉搜索树的范围和/README.md)|Easy|`Tree`&emsp;`Recursion`|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/submissions/)|[C++](./961.重复N次的元素/N-Repeated_Element_in_Size_2N%20Array.cc)|[Note](./961.重复N次的元素/README.md)|Easy|`Hash Table`&emsp;`Sort`|
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[C++](./976.三角形的最大周长/Largest_Perimeter_Triangle.cc)|[Note](./976.三角形的最大周长/README.md)|Easy|`Sort`|
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
