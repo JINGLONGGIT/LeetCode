@@ -15,6 +15,8 @@
 |069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|[C++](./069.x的平方根/Sqrt(x).cc)|[Note](./069.x的平方根/README.md)|Easy|`Binary Search`|
 |083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[C++](./083.删除排序链表中的重复元素/Remove_Duplicates_from_Sorted_List.cc)|[Note](./083.删除排序链表中的重复元素/README.md)|Easy|`Linked List`|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
+|104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[C++](./104.二叉树的最大深度/Maximum_Depth_of_Binary_Tree.cc)|[Note](./104.二叉树的最大深度/README.md)|Easy|`Tree`|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./108.将有序数组转化为二叉树/Convert_Sorted_Array_to_Binary_Search_Tree.cc)|[Note](./108.将有序数组转化为二叉树/README.md)|Easy|`Tree`|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|[C++](./118.杨辉三角/Pascal's_Triangle.cc)|[Note](./118.杨辉三角/README.md)|Easy|`Array`|
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[C++](./119.杨辉三角II/Pascal's_Triangle_II.cc)|[Note](.//119.杨辉三角II/README.md)|Easy|`Array`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./121.买卖股票的最佳时机/Best-Time-to-Buy-and-Sell-Stock.cc)|[Note](./121.买卖股票的最佳时机/README.md)|Easy|`Array`|
@@ -32,6 +34,7 @@
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|[C](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/ReverseList.c)|[Note](https://github.com/JINGLONGGIT/LeetCode/blob/master/206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8/README.md)|Easy|`Linked List`|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./217.存在重复元素/ContainsDuplicate.cc)|[Note](./217.存在重复元素/README.md)|Easy|`Array HashTable`|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|
+|226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)|[C++](./226.翻转二叉树/Invert_Binary_Tree.cc)|[Note](./226.翻转二叉树/README.md)|Easy|`Tree`|
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|[C++](./234.回文链表/Palindrome_Linked_List.cc)|[Note](./234.回文链表/README.md)|Easy|`Linked List`|
 |237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[C](./237.删除链表中的节点/Delete_Node_in_a_Linked_List.c)|[Note](./237.删除链表中的节点/README.md)|Easy|`Linked List`|
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)|[C++](./242.有效的字母异位词/Valid_Anagram.cc)|[Note](./242.有效的字母异位词/README.md)|Easy|`Sort` `Hash Table`|
@@ -54,8 +57,10 @@
 |509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|[C++](./509.斐波那契数列/FibonacciNumber.cc)|[Note](./509.斐波那契数列/README.md)|Easy|`Array Recursion`|
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)|[C++](./532.数组中的K-diff数对/K-diff_Pairs_in_an_Array.cc)|[Note](./532.数组中的K-diff数对/README.md)|Easy|`Array` `Two Pointers`|
 |575|[Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/)|[C++](./575.分糖果/Distribute_Candies.cc)|[Note](./575.分糖果/README.md)|Easy|`Hash Table`|
+|617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|[C++](./617.合并二叉树/Merge_Two_Binary_Trees.cc)|[Note](./617.合并二叉树/README.md)|Easy|`Tree`|
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[C++](./628.三个数的最大乘积/MaximumProductofThreeNumbers.cc)|[Note](./628.三个数的最大乘积/README.md)|Easy|`Array`|
 |682|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/)|[C++](./682.棒球比赛/Baseball_Game.cc)|[Note](./682.棒球比赛/README.md)|Easy|`Stack`|
+|700|[Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|[C++](./700.二叉搜索树中的搜索/Search_in_a_Binary_Search_Tree.cc)|[Note](./700.二叉搜索树中的搜索/README.md)|Easy|`Tree`|
 |704|[Binary Search](https://leetcode-cn.com/problems/binary-search/)|[C++](./704.二分查找/Binary_Search.cc)|[Note](./704.二分查找/README.md)|Easy|`Binary Search`|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)|[C++](./724.寻找数组的中心索引/FindPivotIndex.cc)|[Note](./724.寻找数组的中心索引/README.md)|Easy|`Array`|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)|[C++](./744.寻找比目标字母大的最小字母/Find_Smallest_Letter_Greater_Than_Target.cc)|[Note](./744.寻找比目标字母大的最小字母/README.md)|Easy|`Binary Search`|
