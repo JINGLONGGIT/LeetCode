@@ -15,7 +15,9 @@
 |069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|[C++](./069.x的平方根/Sqrt(x).cc)|[Note](./069.x的平方根/README.md)|Easy|`Binary Search`|
 |083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[C++](./083.删除排序链表中的重复元素/Remove_Duplicates_from_Sorted_List.cc)|[Note](./083.删除排序链表中的重复元素/README.md)|Easy|`Linked List`|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
+|102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[C++](./102.二叉树的层次遍历/Binary_Tree_Level_Order_Traversal.cc)|[Note](./102.二叉树的层次遍历/README.md)|Medium|`Tree`&emsp;`BFS`|
 |104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[C++](./104.二叉树的最大深度/Maximum_Depth_of_Binary_Tree.cc)|[Note](./104.二叉树的最大深度/README.md)|Easy|`Tree`|
+|107|[Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|[C++](./107.二叉树的层序遍历II/Binary_Tree_Leve_%20Order_Traversal_II.cc)|[Note](./107.二叉树的层序遍历II/README.md)|Easy|`Tree`&emsp;`BFS`|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./108.将有序数组转化为二叉树/Convert_Sorted_Array_to_Binary_Search_Tree.cc)|[Note](./108.将有序数组转化为二叉树/README.md)|Easy|`Tree`|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|[C++](./118.杨辉三角/Pascal's_Triangle.cc)|[Note](./118.杨辉三角/README.md)|Easy|`Array`|
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|[C++](./119.杨辉三角II/Pascal's_Triangle_II.cc)|[Note](.//119.杨辉三角II/README.md)|Easy|`Array`|
@@ -59,6 +61,8 @@
 |575|[Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/)|[C++](./575.分糖果/Distribute_Candies.cc)|[Note](./575.分糖果/README.md)|Easy|`Hash Table`|
 |617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|[C++](./617.合并二叉树/Merge_Two_Binary_Trees.cc)|[Note](./617.合并二叉树/README.md)|Easy|`Tree`|
 |628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[C++](./628.三个数的最大乘积/MaximumProductofThreeNumbers.cc)|[Note](./628.三个数的最大乘积/README.md)|Easy|`Array`|
+|637|[Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)|[C++](./637.二叉树的层平均值/Average_of_Levels_in_Binary_Tree.cc)|[Note](./637.二叉树的层平均值/README.md)|Easy|`Tree`|
+|669|[Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)|[C++](./669.修剪二叉搜索树/Trim_a_Binary_Search_Tree.cc)|[Note](./669.修剪二叉搜索树/README.md)|Easy|`Tree`|
 |682|[Baseball Game](https://leetcode-cn.com/problems/baseball-game/)|[C++](./682.棒球比赛/Baseball_Game.cc)|[Note](./682.棒球比赛/README.md)|Easy|`Stack`|
 |700|[Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|[C++](./700.二叉搜索树中的搜索/Search_in_a_Binary_Search_Tree.cc)|[Note](./700.二叉搜索树中的搜索/README.md)|Easy|`Tree`|
 |704|[Binary Search](https://leetcode-cn.com/problems/binary-search/)|[C++](./704.二分查找/Binary_Search.cc)|[Note](./704.二分查找/README.md)|Easy|`Binary Search`|
@@ -75,6 +79,7 @@
 |922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[C++](./922.按奇偶排序数组II/Sort_Array_By_Parity_II.cc)|[Note](./922.按奇偶排序数组II/README.md)|Easy|`Two Pointers`|
 |938|[Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/)|[C++](./938.二叉搜索树的范围和/Range_Sum_of_BST.cc)|[Note](./938.二叉搜索树的范围和/README.md)|Easy|`Tree`&emsp;`Recursion`|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/submissions/)|[C++](./961.重复N次的元素/N-Repeated_Element_in_Size_2N%20Array.cc)|[Note](./961.重复N次的元素/README.md)|Easy|`Hash Table`&emsp;`Sort`|
+|965|[Univalued Binary Tree](https://leetcode-cn.com/problems/univalued-binary-tree/)|[C++](./965.单值二叉树/Univalued_Binary_Tree.cc)|[Note](./965.单值二叉树/README.md)|Easy|`Tree`|
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[C++](./976.三角形的最大周长/Largest_Perimeter_Triangle.cc)|[Note](./976.三角形的最大周长/README.md)|Easy|`Sort`|
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
