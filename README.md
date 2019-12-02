@@ -15,6 +15,7 @@
 |069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|[C++](./069.x的平方根/Sqrt(x).cc)|[Note](./069.x的平方根/README.md)|Easy|`Binary Search`|
 |083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|[C++](./083.删除排序链表中的重复元素/Remove_Duplicates_from_Sorted_List.cc)|[Note](./083.删除排序链表中的重复元素/README.md)|Easy|`Linked List`|
 |088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|[C++](./088.合并两个有序数组/MergeSortedArray.cc)|[Note](./088.合并两个有序数组/README.md)|Easy|`Array`|
+|100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)|[C++](./100.相同的树/Same_Tree.cc)|[Note](./100.相同的树/README.md)|Easy|`Tree`|
 |102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[C++](./102.二叉树的层次遍历/Binary_Tree_Level_Order_Traversal.cc)|[Note](./102.二叉树的层次遍历/README.md)|Medium|`Tree`&emsp;`BFS`|
 |104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[C++](./104.二叉树的最大深度/Maximum_Depth_of_Binary_Tree.cc)|[Note](./104.二叉树的最大深度/README.md)|Easy|`Tree`|
 |107|[Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|[C++](./107.二叉树的层序遍历II/Binary_Tree_Leve_%20Order_Traversal_II.cc)|[Note](./107.二叉树的层序遍历II/README.md)|Easy|`Tree`&emsp;`BFS`|
@@ -38,6 +39,7 @@
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[C++](./219.存在重复元素II/Contains-Duplicate-II.cc)|[Note](./219.存在重复元素II/README.md)|Easy|`Array`|
 |226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)|[C++](./226.翻转二叉树/Invert_Binary_Tree.cc)|[Note](./226.翻转二叉树/README.md)|Easy|`Tree`|
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|[C++](./234.回文链表/Palindrome_Linked_List.cc)|[Note](./234.回文链表/README.md)|Easy|`Linked List`|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](./235.二叉树的最近公共祖先/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cc)|[Note](./235.二叉树的最近公共祖先/README.md)|Easy|`Tree`|
 |237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[C](./237.删除链表中的节点/Delete_Node_in_a_Linked_List.c)|[Note](./237.删除链表中的节点/README.md)|Easy|`Linked List`|
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)|[C++](./242.有效的字母异位词/Valid_Anagram.cc)|[Note](./242.有效的字母异位词/README.md)|Easy|`Sort` `Hash Table`|
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/)|[C++](./268.缺失数字/MissingNumber.cc)|[Note](./268.缺失数字/README.md)|Easy|`Array`|
@@ -73,8 +75,10 @@
 |832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|[C++](./832.翻转图像/Flipping_an_Image.cc)|[Note](./832.翻转图像/README.md)|Easy|`Array`|
 |844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|[C++](./844.比较含退格的字符串/Backspace_String_Compare.cc)|[Note](./844.比较含退格的字符串/README.md)|Easy|`Stack` `Two Pointers`|
 |852|[Peak Index in a Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|[C++](./852.山脉数组的峰顶索引/Peak_Index_in_a_Mountain_Array.cc)|[Note](./852.山脉数组的峰顶索引/README.md)|Easy|`Binary Search`|
+|872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)|[C++](./872.叶子相似的树/Leaf-Similar_Trees.cc)|[Note](./872.叶子相似的树/README.md)|Easy|`Tree`|
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[C](./876.链表的中间节点/Middle_of_the_Linked_List.c)|[Note](./876.链表的中间节点/README.md)|Easy|`Linked List`|
 |884|[Uncommon Words from Two Sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)|[C++](./884.两句话中的不常见单词/Uncommon_Words_from_Two_Sentences.cc)|[Note](./884.两句话中的不常见单词/README.md)|Easy|`Hash Table`|
+|897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|[C++](./897.递增顺序查找树/Increasing_Order_Search_Tree.cc)|[Note](./897.递增顺序查找树/README.md)|Easy|`Tree`|
 |905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/)|[C++](./905.按奇偶排序数组/SortArrayByParity.cc)|[Note](./905.按奇偶排序数组/README.md)|Easy|`Array`|
 |922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[C++](./922.按奇偶排序数组II/Sort_Array_By_Parity_II.cc)|[Note](./922.按奇偶排序数组II/README.md)|Easy|`Two Pointers`|
 |938|[Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/)|[C++](./938.二叉搜索树的范围和/Range_Sum_of_BST.cc)|[Note](./938.二叉搜索树的范围和/README.md)|Easy|`Tree`&emsp;`Recursion`|
