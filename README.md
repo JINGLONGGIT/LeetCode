@@ -86,6 +86,7 @@
 |965|[Univalued Binary Tree](https://leetcode-cn.com/problems/univalued-binary-tree/)|[C++](./965.单值二叉树/Univalued_Binary_Tree.cc)|[Note](./965.单值二叉树/README.md)|Easy|`Tree`|
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[C++](./976.三角形的最大周长/Largest_Perimeter_Triangle.cc)|[Note](./976.三角形的最大周长/README.md)|Easy|`Sort`|
 |977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[C++](./977.有序数组的平方/SquaresOfASortedArray.cc)|[Note](./977.有序数组的平方/README.md)|Easy|`Array`|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|[C++](./1013.将数组分成和相等的三个部分/PartitionArrayIntoThreePartsWithEqualSum.cc)|[Note](./1013.将数组分成和相等的三个部分/README.md)|Easy|`Array`&emsp;`Greedy`|
 |1051|[Height Checker](https://leetcode-cn.com/problems/height-checker/)|[C++](./1051.高度检查器/HeightChecker.cc)|[Note](./1051.高度检查器/README.md)|Easy|`Array`|
 
 
